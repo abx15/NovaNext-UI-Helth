@@ -4,8 +4,7 @@ This project is an internship assignment to build a clean, mobile-friendly websi
 
 ## Site is Live on :
 
-https://gmt-asgn.vercel.app/
-
+https://novanextui.netlify.app/
 ## Table of Contents
 
 - [Features](#features)
